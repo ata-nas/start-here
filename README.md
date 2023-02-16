@@ -6,6 +6,8 @@
 
 ### 😎 Personal projects
 
+<br />
+
 -   [Portfolio](https://github.com/ata-nas/portfolio) - you can also view the website here: [ata-nas.com](https://ata-nas.com/)
 
 ---

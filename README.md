@@ -2,21 +2,21 @@
 
 `This is a quick reference to my GitHub profile. Here you can briefly explore the contents.`
 
-#
-
-## 😎 Personal projects
-
--   [Portfolio](https://github.com/ata-nas/portfolio) - you can also view the website here: [ata-nas.com](https://ata-nas.com/)
-
-#
+---
 
 <br />
 
-## 📚🎓 Learning projects
+### 😎 Personal projects
 
-### **Softuni**
+-   [Portfolio](https://github.com/ata-nas/portfolio) - you can also view the website here: [ata-nas.com](https://ata-nas.com/)
 
-`Below are repos that are related to my studies in SoftUni`
+<br />
+
+### 📚🎓 Learning projects
+
+> **SoftUni**
+>
+> `Below are repos that are related to my studies in SoftUni`
 
 #### **Java**
 
@@ -38,4 +38,4 @@
 
 -   [SoftUni Python Fundamentals](https://github.com/ata-nas/Softuni-Fundamentals-Python) - the first course I ever did and my starting point in programmin.
 
-#
+---

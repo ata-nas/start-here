@@ -16,6 +16,8 @@
 
 `Below are repos that are related to my studies in SoftUni`
 
+<br />
+
 #### **Java**
 
 -   [SoftUni Spring Data JPA Intro](https://github.com/ata-nas/SoftuniSpringDataJPAIntro) - frist steps into understanding real-world application of all knowledge learned until now.

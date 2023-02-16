@@ -12,11 +12,9 @@
 
 ## 📚🎓 Learning projects
 
-<br />
-
 ### **Softuni**
 
-    Below are repos that are related to my studies in SoftUni
+`Below are repos that are related to my studies in SoftUni`
 
 #### **Java**
 

@@ -20,20 +20,20 @@
 
 #### **Java**
 
-[SoftUni Spring Data JPA Intro](https://github.com/ata-nas/SoftuniSpringDataJPAIntro) - frist steps into understanding real-world application of all knowledge learned until now.
+-   [SoftUni Spring Data JPA Intro](https://github.com/ata-nas/SoftuniSpringDataJPAIntro) - frist steps into understanding real-world application of all knowledge learned until now.
 
-[SoftUni Java Test Driven Development](https://github.com/ata-nas/SoftuniJavaTDD) - intro to tdd.
+-   [SoftUni Java Test Driven Development](https://github.com/ata-nas/SoftuniJavaTDD) - intro to tdd.
 
-[SoftUni Java Unit Testing](https://github.com/ata-nas/SoftuniJavaUnitTesting) - intro to unit testing and mocking.
+-   [SoftUni Java Unit Testing](https://github.com/ata-nas/SoftuniJavaUnitTesting) - intro to unit testing and mocking.
 
-[SoftUni Java Design Patterns](https://github.com/ata-nas/SoftuniJavaDesignPatterns) - implementation of common design patterns.
+-   [SoftUni Java Design Patterns](https://github.com/ata-nas/SoftuniJavaDesignPatterns) - implementation of common design patterns.
 
-[SoftUni Java OOP](https://github.com/ata-nas/SoftuniJavaOOP) - the first real introduction to higher level programming concepts. Very foundational and important course.
+-   [SoftUni Java OOP](https://github.com/ata-nas/SoftuniJavaOOP) - the first real introduction to higher level programming concepts. Very foundational and important course.
 
-[SoftUni Java Advanced](https://github.com/ata-nas/SoftuniJavaAdvanced) - after python fundamentals I decided to switch to Java.
+-   [SoftUni Java Advanced](https://github.com/ata-nas/SoftuniJavaAdvanced) - after python fundamentals I decided to switch to Java.
 
 <br />
 
 #### **Python**
 
-[SoftUni Python Fundamentals](https://github.com/ata-nas/Softuni-Fundamentals-Python) - the first course I ever did and my starting point in programmin.
+-   [SoftUni Python Fundamentals](https://github.com/ata-nas/Softuni-Fundamentals-Python) - the first course I ever did and my starting point in programmin.

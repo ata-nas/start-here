@@ -6,7 +6,9 @@
 
 ## 😎 Personal projects
 
-[Portfolio](https://github.com/ata-nas/portfolio) - you can view the website here: [ata-nas.com](https://ata-nas.com/)
+-   [Portfolio](https://github.com/ata-nas/portfolio) - you can also view the website here: [ata-nas.com](https://ata-nas.com/)
+
+#
 
 <br />
 
@@ -35,3 +37,5 @@
 #### **Python**
 
 -   [SoftUni Python Fundamentals](https://github.com/ata-nas/Softuni-Fundamentals-Python) - the first course I ever did and my starting point in programmin.
+
+#

@@ -4,8 +4,6 @@
 
 ---
 
-<br />
-
 ### 😎 Personal projects
 
 -   [Portfolio](https://github.com/ata-nas/portfolio) - you can also view the website here: [ata-nas.com](https://ata-nas.com/)
@@ -14,9 +12,9 @@
 
 ### 📚🎓 Learning projects
 
-> **SoftUni**
->
-> `Below are repos that are related to my studies in SoftUni`
+### **SoftUni**
+
+`Below are repos that are related to my studies in SoftUni`
 
 #### **Java**
 

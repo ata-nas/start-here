@@ -22,6 +22,8 @@
 
 #### **Java**
 
+-   [SoftUni Spring Fundamentals](https://github.com/ata-nas/SoftuniSpringFundamentals) - frist steps into making real web projects, the workshop we made is called MobiLeLeLe which is a clone of a car resales website. Notable things learned here are the fundamentals of HTTP, HTTP methods and how they work, HTTP cookies and sessions, Thymeleaf server-side rendering, Validations, Spring Boot Fundamentals, Spring MVC Fundamentals, Spring Data JPA.
+
 -   [SoftUni Spring Data JPA Intro](https://github.com/ata-nas/SoftuniSpringDataJPAIntro) - frist steps into understanding real-world application of all knowledge learned until now.
 
 -   [SoftUni Java Test Driven Development](https://github.com/ata-nas/SoftuniJavaTDD) - intro to tdd.
